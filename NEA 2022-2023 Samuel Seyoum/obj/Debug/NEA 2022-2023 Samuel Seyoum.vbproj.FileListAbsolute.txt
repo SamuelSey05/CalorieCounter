@@ -1,0 +1,300 @@
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit3.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.MonthView.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+X:\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit3.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.MonthView.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+R:\4. 5CS2 2020.2021\16seyous\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1.mdf
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1_log.ldf
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit3.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.MonthView.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1.mdf
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1_log.ldf
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.CustomFood.resources
+C:\Users\Samuel Seyoum\Documents\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AddCustomFoods.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.CustomFood.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AddCustomFoods.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AddCustomFoods.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+D:\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1.mdf
+D:\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1_log.ldf
+D:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+D:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+D:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+D:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage3.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage3.resources
+R:\7. U6CS 2022-2023\16SeyouS\~A-Level  NEA\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView2.resources
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView2.resources
+E:\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1.mdf
+E:\NEA 2022-2023 Samuel Seyoum\bin\Debug\Database1_log.ldf
+E:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+E:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+E:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+E:\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.CustomFood.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AddCustomFoods.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView2.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage3.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+E:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+D:\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.CustomFoodLog.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe.config
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.exe
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\bin\Debug\NEA 2022-2023 Samuel Seyoum.xml
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.AssemblyReference.cache
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Login.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.CustomFoodLog.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AddCustomFoods.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage2.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AView.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DetailEdit.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodLog2.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.FoodEdit2.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AMainMenu.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AStudentView.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.SMainMenu.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.PasswordEdit.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate2.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserEdit.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage3.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.ViewHistory.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.WeekView.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Welcome.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.UserCreate.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.DayView.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.Resources.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.GenerateResource.cache
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.exe
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.xml
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA 2022-2023 Samuel Seyoum.pdb
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.CustomFoodLog.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AddCustomFoods.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.GroupView2.resources
+C:\Users\16seyous\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AUserManage3.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AGroupView.resources
+C:\Users\Samuel Seyoum\OneDrive - Cardinal Vaughan Memorial School\~NEA Project 2022-2023\NEA 2022-2023 Samuel Seyoum\obj\Debug\NEA_2022_2023_Samuel_Seyoum.AGroupView2.resources

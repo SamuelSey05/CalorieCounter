@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01A920B9-16AD-4D38-8D86-87D940173ACE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>NEA_2022_2023_Samuel_Seyoum.My.MyApplication</StartupObject>
+    <RootNamespace>NEA_2022_2023_Samuel_Seyoum</RootNamespace>
+    <AssemblyName>NEA 2022-2023 Samuel Seyoum</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NEA 2022-2023 Samuel Seyoum.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NEA 2022-2023 Samuel Seyoum.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="06.FoodLog.Designer.vb">
+      <DependentUpon>06.FoodLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="06.FoodLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09.FoodLog2.Designer.vb">
+      <DependentUpon>09.FoodLog2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="09.FoodLog2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12.DetailEdit.Designer.vb">
+      <DependentUpon>12.DetailEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="12.DetailEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="15.FoodEdit.Designer.vb">
+      <DependentUpon>15.FoodEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="15.FoodEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="16.FoodEdit2.Designer.vb">
+      <DependentUpon>16.FoodEdit2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="16.FoodEdit2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="22.AView.Designer.vb">
+      <DependentUpon>22.AView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="22.AView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="21.AUserManage3.Designer.vb">
+      <DependentUpon>21.AUserManage3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="21.AUserManage3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="19.AUserManage.Designer.vb">
+      <DependentUpon>19.AUserManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="19.AUserManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="18.AMainMenu.Designer.vb">
+      <DependentUpon>18.AMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="18.AMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="23.AStudentView.Designer.vb">
+      <DependentUpon>23.AStudentView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="23.AStudentView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04.Login.Designer.vb">
+      <DependentUpon>04.Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="04.Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="25.AGroupView2.Designer.vb">
+      <DependentUpon>25.AGroupView2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="25.AGroupView2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="24.AGroupView.Designer.vb">
+      <DependentUpon>24.AGroupView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="24.AGroupView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13.ViewHistory.Designer.vb">
+      <DependentUpon>13.ViewHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="13.ViewHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="17.WeekView.Designer.vb">
+      <DependentUpon>17.WeekView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="17.WeekView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="11.PasswordEdit.Designer.vb">
+      <DependentUpon>11.PasswordEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="11.PasswordEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10.UserEdit.Designer.vb">
+      <DependentUpon>10.UserEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="10.UserEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05.SMainMenu.Designer.vb">
+      <DependentUpon>05.SMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="05.SMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="03.UserCreate2.Designer.vb">
+      <DependentUpon>03.UserCreate2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="03.UserCreate2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01.Welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01.Welcome.Designer.vb">
+      <DependentUpon>01.Welcome.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02.UserCreate.Designer.vb">
+      <DependentUpon>02.UserCreate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="02.UserCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="08.AddCustomFoods.Designer.vb">
+      <DependentUpon>08.AddCustomFoods.vb</DependentUpon>
+    </Compile>
+    <Compile Include="08.AddCustomFoods.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07.CustomFoodLog.Designer.vb">
+      <DependentUpon>07.CustomFoodLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="07.CustomFoodLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="20.AUserManage2.Designer.vb">
+      <DependentUpon>20.AUserManage2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="20.AUserManage2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="14.DayView.Designer.vb">
+      <DependentUpon>14.DayView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="14.DayView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassCustomFood.vb" />
+    <Compile Include="ClassFood.vb" />
+    <Compile Include="ClassStudent.vb" />
+    <Compile Include="ClassStudentDay.vb" />
+    <Compile Include="ClassTblCustomFood.vb" />
+    <Compile Include="ClassTblFood.vb" />
+    <Compile Include="ClassTblFoodEntry.vb" />
+    <Compile Include="ClassTblStudent.vb" />
+    <Compile Include="ClassFoodEntry.vb" />
+    <Compile Include="ClassYearSpan.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="_GlobalVariables.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="04.Login.resx">
+      <DependentUpon>04.Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07.CustomFoodLog.resx">
+      <DependentUpon>07.CustomFoodLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="08.AddCustomFoods.resx">
+      <DependentUpon>08.AddCustomFoods.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="20.AUserManage2.resx">
+      <DependentUpon>20.AUserManage2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="22.AView.resx">
+      <DependentUpon>22.AView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12.DetailEdit.resx">
+      <DependentUpon>12.DetailEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="15.FoodEdit.resx">
+      <DependentUpon>15.FoodEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="06.FoodLog.resx">
+      <DependentUpon>06.FoodLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09.FoodLog2.resx">
+      <DependentUpon>09.FoodLog2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="16.FoodEdit2.resx">
+      <DependentUpon>16.FoodEdit2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="18.AMainMenu.resx">
+      <DependentUpon>18.AMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="23.AStudentView.resx">
+      <DependentUpon>23.AStudentView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="24.AGroupView.resx">
+      <DependentUpon>24.AGroupView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="25.AGroupView2.resx">
+      <DependentUpon>25.AGroupView2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="05.SMainMenu.resx">
+      <DependentUpon>05.SMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="11.PasswordEdit.resx">
+      <DependentUpon>11.PasswordEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="03.UserCreate2.resx">
+      <DependentUpon>03.UserCreate2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10.UserEdit.resx">
+      <DependentUpon>10.UserEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="19.AUserManage.resx">
+      <DependentUpon>19.AUserManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="21.AUserManage3.resx">
+      <DependentUpon>21.AUserManage3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13.ViewHistory.resx">
+      <DependentUpon>13.ViewHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="17.WeekView.resx">
+      <DependentUpon>17.WeekView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="01.Welcome.resx">
+      <DependentUpon>01.Welcome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="02.UserCreate.resx">
+      <DependentUpon>02.UserCreate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="14.DayView.resx">
+      <DependentUpon>14.DayView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
